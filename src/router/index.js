@@ -7,7 +7,7 @@ import RankDisc from 'components/v-rank-disc/v-rank-disc.vue'
 import CdList from 'components/v-cd-list/v-cd-list.vue'
 
 Vue.use(Router)
-
+//测试专用代码
 export default new Router({
   routes: [
     {
